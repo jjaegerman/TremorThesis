@@ -1,3 +1,5 @@
-
-.pt
-.npy
+.*
+*.pt
+*.npy
+*.csv
+*.pickle
